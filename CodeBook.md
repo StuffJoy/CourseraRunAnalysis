@@ -1,4 +1,4 @@
-##X_train 
+###X_train 
 data set read into R from the X_train.txt file in the train folder
 
 y_train - data set read into R from the y_train.txt file in the train folder
