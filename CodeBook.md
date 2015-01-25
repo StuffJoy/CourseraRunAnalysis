@@ -1,18 +1,3 @@
-
-
-
-activity_labels
-features
-
-
-tidyDataSet
-tidyDataSet_final
-tidySetObject
-
-
-
-grep_features
-
 X_train - data set read into R from the X_train.txt file in the train folder
 y_train - data set read into R from the y_train.txt file in the train folder
 subject_train - data set read into R from the subject_train.txt file in the train folder
