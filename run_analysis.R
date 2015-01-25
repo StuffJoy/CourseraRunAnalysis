@@ -20,7 +20,7 @@ names(features) <- c('feature_id', 'feature_name')
 # Search for matches to argument mean or standard deviation (sd)  within each element of character vector
 grep_features <- grep("-mean\\(\\)|-std\\(\\)", features$feature_name) 
 X_merged <- X_merged[, grep_features] 
-names(X_merged) <- gsub("\\(|\\)", "", (features[grep_features, 2])) 
+names(X_merged) <- (features[grep_features, 2])
 
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
 names(activity_labels) <- c('activity_id', 'activity_name')
