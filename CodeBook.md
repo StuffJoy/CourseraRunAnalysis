@@ -1,3 +1,6 @@
+###Zipped File containing all files used in Project
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 ###X_train 
 data set read into R from the X_train.txt file in the train folder
 
