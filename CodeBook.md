@@ -1,4 +1,6 @@
-X_train - data set read into R from the X_train.txt file in the train folder
+#X_train 
+data set read into R from the X_train.txt file in the train folder
+
 y_train - data set read into R from the y_train.txt file in the train folder
 subject_train - data set read into R from the subject_train.txt file in the train folder
 
@@ -15,6 +17,7 @@ features - data frame created from features.txt file
 Columns in this file are also renamed to feature_id and feature_name for readability
 
 grep_features - variable stores all functions in features dealing with mean() or std()
+
 X_merged - updated to only display values relating to mean/std. Column names are also updated to more readable values.
 
 activity_labels - data frame created from activity_labels.txt file
