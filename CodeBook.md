@@ -1,8 +1,11 @@
 ###X_train 
 data set read into R from the X_train.txt file in the train folder
 
-y_train - data set read into R from the y_train.txt file in the train folder
-subject_train - data set read into R from the subject_train.txt file in the train folder
+###y_train
+data set read into R from the y_train.txt file in the train folder
+
+###subject_train
+data set read into R from the subject_train.txt file in the train folder
 
 X_test - data set read into R from the X_test.txt file in the test folder
 y_test - data set read into R from the y_test.txt file in the test folder
